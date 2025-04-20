@@ -2,7 +2,11 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>App
+
+    <p>BOT</p>
+    <p>VERCEL</p>
+    </div>
   )
 }
 
